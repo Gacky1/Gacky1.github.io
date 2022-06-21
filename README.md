@@ -17,4 +17,5 @@ Here you can get all information and services provided by him.
   <a class="active" href="#home">Home</a>
   <a href="https://discord.gg/X9bG7kn2en">JOIN DISCORD</a>
   <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing">Resume</a>
+  <a class="btn navbar-btn desktop-view-only icon-button" href="https://api.whatsapp.com/send?phone=917014286828" style="background: rgb(54, 54, 54); --darkreader-inline-bgimage: initial; --darkreader-inline-bgcolor:#3e4346;" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor=""><img src="./assets/images/whatsapp.png" alt="whatsapp icon">get in touch</a>
 </div>
