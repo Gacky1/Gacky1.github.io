@@ -16,7 +16,7 @@ Here you can get all information and services provided by him.
   <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing">If you are any organisation and want to hire Duggu then you can get info and contact details here.</a>
   <br>
   <a href="https://www.instagram.com/gacky_a1/">
- <img src="https://www.khiladiadda.com/assets/icons/insta.png" alt="Instagram">
+ <img src="https://www.khiladiadda.com/assets/icons/insta.png" width="50" height="50" alt="Instagram">
 </a>
  <a href="www.linkedin.com/in/rachit-avasthi">
  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIN">
