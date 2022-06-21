@@ -10,5 +10,5 @@ Here you can get all information and services provided by him.
       <p>Myself Rachit Avasthi, I am pursuing B.tech in Information Technology.I provide production,streaming,casting,gfx,vfx and management of tounaments and campaigns and also good in managing discord servers.<p>
   <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing">If you are any organisation and want to hire Duggu then you can get info and contact details here.</a>
   <a href="https://www.instagram.com/gacky_a1/">
- <img src="https://i.pinimg.com/736x/24/37/73/2437730f7e3a5705e205e67fa2cd1020.jpg" alt="Instagram">
+ <img src="https://drive.google.com/file/d/16CQllCxnv4FZX2popBMHCi2hEIMsG62X/view?usp=sharing" alt="Instagram">
 </a>
