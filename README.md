@@ -1,48 +1,5 @@
 # Welcome to Duggu's mini world.
 <html>
-<nav class="navbar show">
-         <a href="/"><img class="navbar-brand" src="./assets/images/khiladiaddalogo.png" alt="Khiladi Adda"></a>
-         <div class="navbar-links desktop-view-only">
-            <a href="https://discord.gg/X9bG7kn2en">Join Discord | </a>
-  <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing"> | Resume | </a>
-  <a href="https://api.whatsapp.com/send?phone=917014286828" class="split"> | WhatsApp | </a>
-         </div>
-
-         <a class="btn navbar-btn desktop-view-only icon-button" href="https://api.whatsapp.com/send?phone=917014286828" style="background: rgb(54, 54, 54); --darkreader-inline-bgimage: initial; --darkreader-inline-bgcolor:#3e4346;" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor=""><img src="./assets/images/whatsapp.png" alt="whatsapp icon">get in touch</a>
-
-            <a class="btn navbar-btn mobile-view-only getbtn icon-button" href="https://api.whatsapp.com/send?phone=917014286828" style="background: rgb(54, 54, 54); --darkreader-inline-bgimage: initial; --darkreader-inline-bgcolor:#3e4346;" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor=""><img src="./assets/images/whatsapp.png" alt="whatsapp icon">Get in touch</a>
-
-         <a class="btn navbar-btn desktop-view-only download-btn" href="https://khiladiadda-apk.ap-south-1.linodeobjects.com/KhiladiAdda-U2.1.0.apk" id="download_link">download</a>
-
-            <!-- <a
-            class="btn navbar-btn dmobile-view"
-            href="https://khiladiadda.onelink.me/g37F/m41nrrpl"
-            id="download_link"
-            >download</a> -->
-            <a class="btn navbar-btn dmobile-view" href="https://khiladiadda-apk.ap-south-1.linodeobjects.com/KhiladiAdda-U2.1.0.apk" id="download_link">download</a>
-
-         <button class="navbar-toggle-btn toggle-btn mobile-view-only">
-            <p class="toggle-btn-title">features</p>
-            <img src="./assets/icons/nav-toggle.svg" alt="toggle">
-         </button>
-
-         <!-- mobile side menu -->
-         <div class="navbar-sidemenu sidemenu mobile-view-only">
-            <div class="sidemenu-header">
-               <button class="sidemenu-toggle-btn toggle-btn mobile-view-only">
-                  <p class="toggle-btn-title">features</p>
-                  <img src="./assets/icons/close-icon.svg" alt="close">
-               </button>
-            </div>
-            <div class="sidemenu-links">
-               <a class="sidemenu-link" href="/">home</a>
-               <a class="sidemenu-link active" href="#features">features</a>
-               <a class="sidemenu-link" href="#offerings">our offering</a>
-               <a class="sidemenu-link" href="#reviews1">reviews</a>
-               <!-- <a class="sidemenu-link" href="#download">download</a> -->
-            </div>
-         </div>
-      </nav>
 <div class="topnav">
   <a href="https://discord.gg/X9bG7kn2en">Join Discord | </a>
   <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing"> | Resume | </a>
