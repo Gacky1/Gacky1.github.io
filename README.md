@@ -11,5 +11,5 @@ Here you can get all information and services provided by him.
   <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing">If you are any organisation and want to hire Duggu then you can get info and contact details here.</a>
   <br>
   <a href="https://www.instagram.com/gacky_a1/">
- <img src="https://we.tl/t-rYydwxwHAX" alt="Instagram">
+ <img src="https://www.khiladiadda.com/assets/icons/insta.png" alt="Instagram">
 </a>
