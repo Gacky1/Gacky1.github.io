@@ -6,9 +6,7 @@
   <a href="https://api.whatsapp.com/send?phone=917014286828" class="split"> | WhatsApp | </a>
   <br>
 Here you can get all information and services provided by him.
-   <head>
-      <title>DUGGU</title>
-   </head>
+
    <body style="background-color:yellow;">
       <h1>About</h1>
       <p>Hey there!,</p>
@@ -20,4 +18,7 @@ Here you can get all information and services provided by him.
 </a>
  <a href="https://www.linkedin.com/in/rachit-avasthi">
  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIN">
+</a>
+ <a href="https://discord.gg/X9bG7kn2en">
+ <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.logojoy.com%2Fwp-content%2Fuploads%2F20210422095037%2Fdiscord-mascot.png&imgrefurl=https%3A%2F%2Flooka.com%2Flogo-ideas%2Fdiscord-logo-design%2F&tbnid=Pk8QHyiG6krtnM&vet=1&docid=luhrtQ7NhCx2vM&w=461&h=465&source=sh%2Fx%2Fim">
 </a>
