@@ -1,4 +1,9 @@
 # Welcome to Duggu's mini world.
+<div class="topnav">
+  <a href="https://discord.gg/X9bG7kn2en">JOIN DISCORD</a>
+  <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing">Resume</a>
+  <a class="btn navbar-btn desktop-view-only icon-button" href="https://api.whatsapp.com/send?phone=917014286828" style="background: rgb(54, 54, 54); --darkreader-inline-bgimage: initial; --darkreader-inline-bgcolor:#3e4346;" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor=""><img src="./assets/images/whatsapp.png" alt="whatsapp icon">get in touch</a>
+  <a class="btn navbar-btn mobile-view-only getbtn icon-button" href="https://api.whatsapp.com/send?phone=918368894499" style="background: rgb(54, 54, 54); --darkreader-inline-bgimage: initial; --darkreader-inline-bgcolor:#3e4346;" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor=""><img src="./assets/images/whatsapp.png" alt="whatsapp icon">Get in touch</a>
 Here you can get all information and services provided by him.
 <html>
    <head>
@@ -13,9 +18,3 @@ Here you can get all information and services provided by him.
   <a href="https://www.instagram.com/gacky_a1/">
  <img src="https://www.khiladiadda.com/assets/icons/insta.png" alt="Instagram">
 </a>
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="https://discord.gg/X9bG7kn2en">JOIN DISCORD</a>
-  <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing">Resume</a>
-  <a class="btn navbar-btn desktop-view-only icon-button" href="https://api.whatsapp.com/send?phone=917014286828" style="background: rgb(54, 54, 54); --darkreader-inline-bgimage: initial; --darkreader-inline-bgcolor:#3e4346;" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor=""><img src="./assets/images/whatsapp.png" alt="whatsapp icon">get in touch</a>
-</div>
