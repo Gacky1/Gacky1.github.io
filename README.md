@@ -18,6 +18,6 @@ Here you can get all information and services provided by him.
   <a href="https://www.instagram.com/gacky_a1/">
  <img src="https://www.khiladiadda.com/assets/icons/insta.png" width="50" height="50" alt="Instagram">
 </a>
- <a href="www.linkedin.com/in/rachit-avasthi">
+ <a href="https://www.linkedin.com/in/rachit-avasthi">
  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIN">
 </a>
