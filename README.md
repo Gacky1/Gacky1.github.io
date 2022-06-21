@@ -1,11 +1,11 @@
 # Welcome to Duggu's mini world.
+<html>
 <div class="topnav">
   <a href="https://discord.gg/X9bG7kn2en">JOIN DISCORD | </a>
   <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing"> | RESUME | </a>
   <a href="https://api.whatsapp.com/send?phone=917014286828" class="split"> | WhatsApp | </a>
   <br>
 Here you can get all information and services provided by him.
-<html>
    <head>
       <title>DUGGU</title>
    </head>
