@@ -1,10 +1,8 @@
 # Welcome to Duggu's mini world.
 <div class="topnav">
-<li-icon type="app-linkedin-bug-color-icon" size="large" role="img" aria-label="LinkedIn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false" data-darkreader-inline-fill="" style="--darkreader-inline-fill:currentColor;">
-
   <a href="https://discord.gg/X9bG7kn2en">JOIN DISCORD | </a>
   <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing"> | RESUME | </a>
-  <a href="https://api.whatsapp.com/send?phone=917014286828"> | WhatsApp | </a>
+  <a href="https://api.whatsapp.com/send?phone=917014286828" class="split"> | WhatsApp | </a>
   <br>
 Here you can get all information and services provided by him.
 <html>
