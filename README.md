@@ -2,7 +2,7 @@
 Here you can get all information and services provided by him.
 <html>
    <head>
-      <title>HTML Backgorund Color</title>
+      <title>DUGGU</title>
    </head>
    <body style="background-color:yellow;">
       <h1>About</h1>
@@ -13,3 +13,8 @@ Here you can get all information and services provided by him.
   <a href="https://www.instagram.com/gacky_a1/">
  <img src="https://www.khiladiadda.com/assets/icons/insta.png" alt="Instagram">
 </a>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="https://discord.gg/X9bG7kn2en">JOIN DISCORD</a>
+  <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing">Resume</a>
+</div>
