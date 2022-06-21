@@ -1,9 +1,7 @@
 # Welcome to Duggu's mini world.
 <html>
 <div class="topnav">
-  <a href="https://discord.gg/X9bG7kn2en">Join Discord | </a>
-  <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing"> | Resume | </a>
-  <a href="https://api.whatsapp.com/send?phone=917014286828" class="split"> | WhatsApp | </a>
+  <a href="http://duggu.me/">Refresh | </a>
   <br>
 Here you can get all information and services provided by him.
 
@@ -22,3 +20,7 @@ Here you can get all information and services provided by him.
  <a href="https://discord.gg/X9bG7kn2en">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYFlbch2RI_7-e_fVFO1ivcFELcd9vVgzJQ&usqp=CAU" width="50" height="50" alt="Discord">
 </a>
+ <a href="https://api.whatsapp.com/send?phone=917014286828">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmxZ-3mNZmH4c-fLYF_1hkzvWNccSx8iyIA&usqp=CAU" width="50" height="50" alt="Whatsapp">
+</a>
+ 
