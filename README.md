@@ -1,9 +1,8 @@
 # Welcome to Duggu's mini world.
 <div class="topnav">
   <a href="https://discord.gg/X9bG7kn2en">JOIN DISCORD</a>
-  <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing">Resume</a>
-  <a class="btn navbar-btn desktop-view-only icon-button" href="https://api.whatsapp.com/send?phone=917014286828" style="background: rgb(54, 54, 54); --darkreader-inline-bgimage: initial; --darkreader-inline-bgcolor:green;" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor="green"><img src="https://www.khiladiadda.com/assets/images/whatsapp.png" alt="whatsapp icon">CONTACT</a>
-  <a class="btn navbar-btn mobile-view-only getbtn icon-button" href="https://api.whatsapp.com/send?phone=918368894499" style="background: rgb(54, 54, 54); --darkreader-inline-bgimage: initial; --darkreader-inline-bgcolor:green;" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor="green"><img src="https://www.khiladiadda.com/assets/images/whatsapp.png" alt="whatsapp icon">CONTACT</a>
+  <a href="https://drive.google.com/file/d/142BlbBlARGK-ApnJev0ibiynOjMPuX16/view?usp=sharing">RESUME</a>
+  <a href="wa.me/+917014286828">WHATS APP</a>
 Here you can get all information and services provided by him.
 <html>
    <head>
