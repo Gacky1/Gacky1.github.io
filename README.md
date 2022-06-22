@@ -1,7 +1,5 @@
 # Welcome to Duggu's mini world.
 <html>
-<div class="topnav">
-  <a href="http://duggu.me/">Refresh | </a>
   <br>
 Here you can get all information and services provided by him.
 
