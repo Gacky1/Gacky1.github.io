@@ -1,4 +1,4 @@
-<center><img src="https://drive.google.com/file/d/19VavUGPenLrpaukZJjo1kjzMJWU1v8KE/view?usp=sharing"  width="500" height="500" alt="Whatp"></center>
+<center><a href="https://imgbb.com/"><img src="https://i.ibb.co/84wtP40/zone-by-guugu.png" alt="zone-by-guugu" border="0"></a></center>
 # Welcome to Duggu's mini world.
 <html>
   <br>
