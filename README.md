@@ -1,9 +1,8 @@
-<center><a href="https://imgbb.com/"><img src="https://i.ibb.co/84wtP40/zone-by-guugu.png" alt="zone-by-guugu" border="0"></a></center>
 # Welcome to Duggu's mini world.
 <html>
   <br>
 Here you can get all information and services provided by him.
-
+<center><a href="https://imgbb.com/"><img src="https://i.ibb.co/84wtP40/zone-by-guugu.png" alt="zone-by-guugu" border="0"></a></center>
    <body style="background-color:yellow;">
       <h1>About</h1>
       <p>Hey there!,</p>
