@@ -1,4 +1,4 @@
-<center><<img src="https://www.canva.com/design/DAFE4ciOWVE/NZzZSCfyDUTYoEjfxiVInw/view?utm_content=DAFE4ciOWVE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"  width="500" height="500" alt="Whatp"></center>
+<center><<img src="https://drive.google.com/file/d/19VavUGPenLrpaukZJjo1kjzMJWU1v8KE/view?usp=sharing"  width="500" height="500" alt="Whatp"></center>
 # Welcome to Duggu's mini world.
 <html>
   <br>
