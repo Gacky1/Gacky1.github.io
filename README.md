@@ -14,7 +14,7 @@
     <li class="list-item" style="--color:#ffa117"><a href="#">
      <span class="icon">
        <ion-icon name="alert-outline"></ion-icon>
-     </spam>
+     </span>
      <span class="text">About</span>
      </a></li>
 Here you can get all information and services provided by him.<br>
