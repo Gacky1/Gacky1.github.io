@@ -2,7 +2,25 @@
 <html>
   <br>
 Here you can get all information and services provided by him.
-
+ <div class="container">
+  <div class="navigation">
+  <div class="menu-toggle"></div>
+  <ul class="list">
+    <li class="list-item avtive" style="--color:#f44336"><a href="#">
+     <span class="icon">
+       <ion-icon name="home-outline"></ion-icon>
+     </span>
+     <span class="text">Home</span>
+     </a></li>
+    <li class="list-item" style="--color:#ffa117"><a href="#">
+     <span class="icon">
+       <ion-icon name="alert-outline"></ion-icon>
+     </spam>
+     <span class="text">About</span>
+     </a></li>
+     </ul>
+     </div>
+     </div>  
    <body style="background-color:yellow;">
       <h1>About</h1>
       <p>Hey there!,</p>
