@@ -17,6 +17,7 @@
      </span>
      <span class="text">About</span>
      </a></li>
+ <br>
 Here you can get all information and services provided by him.<br>
 <center><img src="https://i.ibb.co/84wtP40/zone-by-guugu.png" alt="zone-by-guugu" border="0"></center><br>
    <body style="background-color:yellow;">
