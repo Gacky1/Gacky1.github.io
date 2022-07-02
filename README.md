@@ -18,9 +18,6 @@ Here you can get all information and services provided by him.
      </spam>
      <span class="text">About</span>
      </a></li>
-     </ul>
-     </div>
-     </div>  
    <body style="background-color:yellow;">
       <h1>About</h1>
       <p>Hey there!,</p>
