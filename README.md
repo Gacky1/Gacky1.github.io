@@ -1,28 +1,9 @@
 # Welcome to Duggu's mini world.
 <html>
-<<<<<<< HEAD
-  <br>
-Here you can get all information and services provided by him.
- <div class="container">
-  <div class="navigation">
-  <div class="menu-toggle"></div>
-  <ul class="list">
-    <li class="list-item avtive" style="--color:#f44336"><a href="#">
-     <span class="icon">
-       <ion-icon name="home-outline"></ion-icon>
-     </span>
-     <span class="text">Home</span>
-     </a></li>
-    <li class="list-item" style="--color:#ffa117"><a href="#">
-     <span class="icon">
-       <ion-icon name="alert-outline"></ion-icon>
-     </spam>
-     <span class="text">About</span>
-     </a></li>
-=======
 Here you can get all information and services provided by him.<br>
-<center><img src="https://i.ibb.co/84wtP40/zone-by-guugu.png" alt="zone-by-guugu" border="0"></center><br>
->>>>>>> 433346e2a0281bebdcd9eaf6e7970fb9868e402d
+
+ <align="center"><img src="https://i.ibb.co/84wtP40/zone-by-guugu.png" alt="zone-by-guugu" >
+ <br>
    <body style="background-color:yellow;">
       <h1>About</h1>
       <p>Hey there!,</p>
