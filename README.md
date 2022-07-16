@@ -2,7 +2,7 @@
 <html>
 Here you can get all information and services provided by him.
 <br>
- <align="center"><img src="https://i.ibb.co/84wtP40/zone-by-guugu.png" alt="zone-by-guugu" >
+ <img src="https://i.ibb.co/84wtP40/zone-by-guugu.png" alt="zone-by-guugu" >
  <br>
    <body style="background-color:yellow;">
       <h1>About</h1>
