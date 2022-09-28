@@ -8,7 +8,7 @@
 <h1>Hello Kiddo</h1>
 <fieldset>
 <legend><h4>Sign Up</h4></legend>
-<input placeholder="Email" type="text">
+<input placeholder="Email" type="email">
 <br>
 <input placeholder="Password" type="password">
 <br>
