@@ -8,3 +8,4 @@
 <input placeholder="Email" type="text">
 <br>
 <input placeholder="Password" type="password">
+<button>Sign Up</button>
