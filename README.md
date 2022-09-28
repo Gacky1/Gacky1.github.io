@@ -4,7 +4,7 @@
 </head>
 <body>
 <div>
-<img src=":C\Users\rajen\OneDrive\Desktop\duggubunny.gif">
+<img src=":C\Users\rajen\OneDrive\Desktop\duggubunny.png">
 <h1>Hello Kiddo</h1>
 <h4>Signup</h4>
 <input placeholder="Email" type="text">
