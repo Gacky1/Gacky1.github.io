@@ -2,7 +2,7 @@
 <head>
 <title>Duggu.143</title>
 </head>
-<body bgcolor="#24258">
+<body>
 <div>
 <img src="https://i.imgur.com/zX7uNNY.gif" width="70" height="70">
 <h1>Hello Kiddo</h1>
