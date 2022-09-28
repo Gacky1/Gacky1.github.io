@@ -4,7 +4,7 @@
 </head>
 <body>
 <div>
-<img src="https://i.imgur.com/zX7uNNY.gif">
+<img src="https://i.imgur.com/zX7uNNY.gif" width="10" height="10">
 <h1>Hello Kiddo</h1>
 <h4>Signup</h4>
 <input placeholder="Email" type="text">
