@@ -16,6 +16,7 @@
 </fieldset>
 </div>
 <details>
-<summary>What will you able to access after login?</summary>
+<summary>Login,Why?</summary>
+<h3>What will I get after logging in?</h3>
 <p>You will get some important materials related to different kind of interest</p>
 </details>
