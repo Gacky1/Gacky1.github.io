@@ -15,4 +15,7 @@
 <button>Sign Up</button>
 </fieldset>
 </div>
-<a href="/test.html">TEST</a>
+<details>
+<h3>What will you able to access after login?</h3>
+<p>You will get some important materials related to different kind of interest</p>
+</details>
