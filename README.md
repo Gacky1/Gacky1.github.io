@@ -5,7 +5,7 @@
 <body>
 <div>
 <img src="https://i.imgur.com/zX7uNNY.gif" width="100" height="100">
-<h1>Hello Kiddo</h1>
+<h1><b><u><i>Hello Geeks!</u></i></h1>
 <fieldset>
 <legend><h4>Sign Up</h4></legend>
 <input placeholder="Email" type="email">
