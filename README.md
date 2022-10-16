@@ -5,7 +5,7 @@
 <body>
 <div>
 <img src="https://i.imgur.com/zX7uNNY.gif" width="100" height="100">
-<h1><b><u><i>Hello Geeks!</b></u></i></h1>
+<h1><b><u><i>Hello Geeks!</u></i></h1>
 <fieldset>
 <legend><h4>Sign Up</h4></legend>
 <input placeholder="Email" type="email">
@@ -14,6 +14,7 @@
 <br>
 <button>Sign Up</button>
 </fieldset>
+<a href="test.html">For a new login page click here</a> 
 </div>
 <details>
 <summary>Login,Why?</summary>
