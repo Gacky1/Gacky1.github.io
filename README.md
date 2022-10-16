@@ -14,7 +14,6 @@
 <br>
 <button>Sign Up</button>
 </fieldset>
-<a href="test.html">For a new login page click here</a> 
 </div>
 <details>
 <summary>Login,Why?</summary>
