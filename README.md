@@ -15,7 +15,7 @@
 <button>Sign Up</button>
 </fieldset>
 </div>
-<a href=test.html>For a new login page click here</a> <details>
+<a href="test.html">For a new login page click here</a> <details>
 <summary>Login,Why?</summary>
 <h3>What will I get after logging in?</h3>
 <p>You will get some important materials related to different kind of interest</p>
