@@ -4,7 +4,7 @@
 </head>
 <style>
 body {background-color: black; color:cyan;}
-h1 {font-family:Signika;}
+h1 {font-family:Signika; text-align: center;}
 p {color:green;}
 </style>
 <div role="banner">
