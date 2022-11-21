@@ -3,7 +3,7 @@
 <title>Duggu.143</title>
 </head>
 <style>
-body {background-color: black; color:cyan;}
+body {color:cyan;}
 h1 {font-family:Signika; text-align: center;}
 p {color:green;}
 </style>
