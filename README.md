@@ -1,8 +1,8 @@
 <html>
 <head>
 <title>Duggu.143</title>
+<link href="style.css" rel="stylesheet">
 </head>
-
 <div role="banner">
 <img src="https://i.imgur.com/zX7uNNY.gif" width="100" height="100">
 </div>
