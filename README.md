@@ -4,7 +4,7 @@
 <link href="style.css" rel="stylesheet">
 </head>
 <div role="banner">
-<img src="https://i.imgur.com/zX7uNNY.gif" width="100" height="100">
+<img class="Image" src="https://i.imgur.com/zX7uNNY.gif" >
 </div>
 <i><b><h1>Hello Geeks!</h1></b></i>
 <fieldset>
