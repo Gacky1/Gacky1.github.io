@@ -2,11 +2,13 @@
 <head>
 <title>Duggu.143</title>
 </head>
-<body>{background-color: lightBlue;}
+<style>
+body {background-color: black; color:cyan;}
+</style>
 <div role="banner">
 <img src="https://i.imgur.com/zX7uNNY.gif" width="100" height="100">
 </div>
-<h1>Hello Geeks!</h1>
+<i><b><h1>Hello Geeks!</h1></b></i>
 <fieldset>
 <legend><h4>Sign Up</h4></legend>
 <input placeholder="Email" type="email">
