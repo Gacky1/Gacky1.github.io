@@ -5,6 +5,7 @@
 <style>
 body {background-color: black; color:cyan;}
 h1 {font-family:Signika;}
+p {color:green;}
 </style>
 <div role="banner">
 <img src="https://i.imgur.com/zX7uNNY.gif" width="100" height="100">
