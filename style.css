@@ -5,7 +5,7 @@ p {color:rgb(14, 0, 83);}
     border:solid 10px red;
 }
 
-.img{
+img{
     padding:30px;
-    border: solid;
+    border: solid 10px red;
 }
