@@ -4,3 +4,8 @@ p {color:rgb(14, 0, 83);}
 .alert {
     border:solid 10px red;
 }
+
+.img{
+    padding:30px;
+    border: solid;
+}
