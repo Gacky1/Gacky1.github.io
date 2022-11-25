@@ -1,5 +1,7 @@
-body {color:rgb(18, 177, 161);}
-h1 {font-weight:bold; color: rgb(59, 254, 5); font-family:Signika; text-align: center;}
+body {color:rgb(18, 177, 161);
+     background-color: grey ;
+}
+h1 {font-weight:bold;color: rgb(59, 254, 5); font-family:Signika; text-align: center;}
 p {color:rgb(14, 0, 83);}
 .alert {
     border:solid 10px red;
