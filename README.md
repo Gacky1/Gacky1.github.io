@@ -10,7 +10,6 @@
 <body>
     <div class="container">
         <div class="sidebar sidebarGo">
-        
         <nav>
             <ul>
                 <li><a href="/">Home</a></li>
