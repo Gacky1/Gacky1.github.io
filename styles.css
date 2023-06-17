@@ -190,6 +190,7 @@ section{
     margin-left: 1.8vw;
 }
 
+
 .blob{
     position: absolute;
     top:50%;
@@ -199,6 +200,13 @@ section{
     transform: translate(-50%,-50%);
     background: #fff;
     animation:anime_blob 8s linear infinite;
+}
+
+/* About me */
+.about1{
+    margin: auto;
+    align-items: center;
+    font-family: sans-serif;
 }
 
 @keyframes anime_blob{
