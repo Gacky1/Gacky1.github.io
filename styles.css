@@ -118,7 +118,8 @@ section{
     color:#222;
     text-decoration: solid;
     background: transparent;
-    border: blue;
+    border: #222;
+    border: solid 2;
     margin-top: 2vw;
     font-size: 1.5vw;
     text-decoration: none;
