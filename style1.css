@@ -1,4 +1,4 @@
-body {
+.aboutme{
     background-color: #1f2937;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
@@ -8,7 +8,7 @@ body {
     margin: 0;
   }
   
-  .container {
+  .about_container {
     text-align: center;
     padding: 30px;
     background-color: #fff;
