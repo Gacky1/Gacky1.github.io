@@ -131,8 +131,10 @@ section{
 .text_container .btn:hover{
     letter-spacing:3px ;
     padding: 6px 18px;
-    color: blue;
+    color: #fff;
+    background-color: blue;
     text-decoration: underline;
+    transition: 0.3s;
 }
 
 .image_container{
