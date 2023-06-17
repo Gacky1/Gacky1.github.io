@@ -117,7 +117,8 @@ section{
     display: inline-block;
     color:#222;
     text-decoration: solid;
-    background: #fff;
+    background: transparent;
+    border: blue;
     margin-top: 2vw;
     font-size: 1.5vw;
     text-decoration: none;
@@ -132,7 +133,7 @@ section{
     letter-spacing:3px ;
     padding: 6px 18px;
     color: #fff;
-    background-color: blue;
+    background: blue;
     text-decoration: underline;
     transition: 0.3s;
 }
