@@ -37,11 +37,11 @@ section{
     text-transform: uppercase;
 }
 
-.logo:hover{
+/* .logo:hover{
     color:#000;
     transition: 0.5s ease-in-out;
     text-decoration: underline;
-}
+} */
 
 .menuitems{
     display: flex;
