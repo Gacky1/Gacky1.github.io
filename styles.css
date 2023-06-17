@@ -132,8 +132,7 @@ section{
 .text_container .btn:hover{
     letter-spacing:3px ;
     padding: 6px 18px;
-    color: #fff;
-    background: blue;
+    color: #6507f3;
     text-decoration: underline;
     transition: 0.3s;
 }
