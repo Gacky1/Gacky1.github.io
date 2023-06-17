@@ -217,7 +217,7 @@ section{
     transition: opacity 0.3s ease-in-out;
   }
   
-  .image-container:hover .hover-image {
+  .image_container:hover .hover-image {
     opacity: 1;
   }
 
