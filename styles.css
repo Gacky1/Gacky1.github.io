@@ -312,6 +312,12 @@ input{
     .icons .fa{
         padding: 1.7vw;
     }
+    .about1{
+        flex-wrap: wrap;
+    }
+    .aboutme2{
+        flex-wrap: wrap;
+    }
     ::-webkit-scrollbar{
         width: 12px;
     }
