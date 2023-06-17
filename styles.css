@@ -312,3 +312,39 @@ input{
         border-radius: 50px;
     }
 }
+
+/* copied from gpt */
+.changing-text {
+    display: inline-block;
+    animation: changeText 6s infinite; /* Adjust the duration as needed */
+  }
+  
+  @keyframes changeText {
+    0% { opacity: 1; }
+    33% { opacity: 0; }
+    66% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  .text {
+    position: absolute;
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+  
+  .text:nth-child(1) {
+    animation-delay: 0s;
+  }
+  
+  .text:nth-child(2) {
+    animation-delay: 2s;
+  }
+  
+  .text:nth-child(3) {
+    animation-delay: 4s;
+  }
+  
+  .changing-text:hover .text {
+    opacity: 1;
+  }
+  
