@@ -296,7 +296,7 @@ input{
     display:none;
 }
 
-@media screen and (max-width:480px) {
+/* @media screen and (max-width:480px) {
     body{
         overflow: auto;
     }
@@ -372,12 +372,6 @@ input{
     .icons .fa{
         padding: 1.7vw;
     }
-    .about1{
-        flex-wrap: wrap;
-    }
-    .aboutme2{
-        flex-wrap: wrap;
-    }
     ::-webkit-scrollbar{
         width: 12px;
     }
@@ -388,4 +382,93 @@ input{
         background-color: #fff;
         border-radius: 50px;
     }
+} */
+
+@media screen and (max-width: 480px) {
+    body {
+        overflow: auto;
+    }
+    .logo {
+        font-size: 5vw;
+    }
+    .navbar label {
+        display: block;
+        color: #fff;
+        font-size: 4vw;
+        padding: 1vw 1.5vw;
+        background: #000;
+        cursor: pointer;
+        z-index: 1000;
+    }
+    .menuitems {
+        position: fixed;
+        top: 0;
+        right: -100vw;
+        width: 100vw;
+        height: 100%;
+        background: #fff;
+        padding-top: 15vw;
+        padding-left: 5vw;
+        display: flex;
+        flex-direction: column;
+        transition: 0.3s ease;
+    }
+    .menuitems li a {
+        color: #fd4a2b;
+        font-size: 4vw;
+        margin: 0.5vw 0;
+    }
+    #check:checked ~ section .navbar .menuitems {
+        right: 0;
+    }
+    .container {
+        flex-wrap: wrap;
+    }
+    .text_container {
+        width: 100%;
+        padding: 15vw 10vw;
+        z-index: 100;
+    }
+    .text_container h2 {
+        font-size: 18vw;
+        line-height: 18vw;
+    }
+    .text_container h5 {
+        font-size: 5vw;
+    }
+    .text_container p {
+        font-size: 3vw;
+    }
+    .text_container .btn {
+        margin-top: 2vw;
+        font-size: 2.5vw;
+    }
+    .image_container {
+        width: 100%;
+        height: 50rem;
+        margin-top: 100px;
+        overflow: hidden;
+    }
+    .imgbox {
+        height: 800px;
+        margin: 0;
+    }
+    .icons {
+        position: fixed;
+        z-index: 100;
+    }
+    .icons .fa {
+        padding: 1.7vw;
+    }
+    ::-webkit-scrollbar {
+        width: 12px;
+    }
+    ::-webkit-scrollbar-track {
+        background-color: #000;
+    }
+    ::-webkit-scrollbar-thumb {
+        background-color: #fff;
+        border-radius: 50px;
+    }
 }
+
