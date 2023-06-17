@@ -203,15 +203,44 @@ section{
 }
 
 /* About me */
-.about1{
-    display: flex;
-    width: 100%;
-    min-height: 100vh;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    background-color: #fff;
-}
+.aboutme{
+    background-color: #f2f2f2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+  }
+  
+  .title {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .content {
+    text-align: justify;
+  }
+  
+  .profile-picture {
+    display: block;
+    max-width: 200px;
+    height: auto;
+    margin: 0 auto 20px;
+    border-radius: 50%;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .description {
+    font-size: 18px;
+    color: #777;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
 
 @keyframes anime_blob{
     0%,100%{
