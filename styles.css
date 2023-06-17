@@ -133,6 +133,7 @@ section{
 .text_container .btn:hover{
     letter-spacing:3px ;
     padding: 6px 18px;
+    color: #fff;
     background-color: #6507f3;
     text-decoration: underline;
     transition: 0.3s;
@@ -179,7 +180,7 @@ section{
 }
 .icons .fa:hover{
     color: red;
-    transform: translateX(-8vw);
+    transform: translateX(-10vw);
 }
 
 .icons .fa span{
