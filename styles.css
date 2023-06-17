@@ -204,7 +204,8 @@ section{
 
 /* About me */
 .about1{
-    margin: auto;
+    margin: 10 10 10 10;
+    padding: 10 10 10 10;
     align-items: center;
     font-family: sans-serif;
 }
