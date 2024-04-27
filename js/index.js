@@ -94,11 +94,11 @@ document.querySelector(".c-credits > div:last-child").addEventListener("click", 
 
 
 function copytoclip(){
-  navigator.clipboard.writeText("2abhijha@gmail.com");
+  navigator.clipboard.writeText("rachitavasthi.it25@gmail.com");
 }
 
 
-const scriptURL = 'https://script.google.com/macros/s/AKfycbyz3mXuTC1SSl5t68_I7obpgg1AKIPc4rPE_icB5JrI8KaIaG-f/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycbzHGjmfyl9ti3jweuMJs8db4jSwb4Czjma6D7fGb7cBrFda-yzKcf8tfBMJ14ojxcOi3Q/exec'
 const contact_form = document.querySelector("#contact");
 
 contact_form.addEventListener('submit', e => {
@@ -118,4 +118,4 @@ document.addEventListener('keydown', (e)=>{
   }
 })
 
-console.log("Designed and Developed by Abhishek Jha. This website is copyrighted, any act of stealing or altering would result in legal action.")
+console.log("Designed and Developed by Rachit Avasthi. This website is copyrighted, any act of stealing or altering would result in legal action.")
