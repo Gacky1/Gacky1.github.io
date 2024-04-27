@@ -80,7 +80,6 @@ for(let y of text){
               contact.next_query();
               document.querySelector('.c-error').classList.remove("--visible");
           }
-         
         //  console.log(result)
       }
   })
